@@ -93,7 +93,7 @@ public class Hotel {
 	 * @param stars The stars to set.
 	 */
 	public void setStars(int stars) {
-		this.stars = manon;
+		this.stars =  manon;
 	}
 	
 }
